@@ -18,9 +18,12 @@ I conducted the same analysis again, but for each species separately, which you 
 
 There are a few possible exception species: Kokane, Musky, and Tiger Trout. We can look at the numbers a little more closely:
 
-New/Waxing/Full/Waning:
+New/Waxing/Full/Waning: 
+
 Kokanee: 1/1/0/1
+
 Muskellunge: 47/27/41/47
+
 Tiger trout: 224/233/195/313
 
 Not enough Kokanee have been caught to make any strong claims. There does seem moon phases could be more productive for catching trophy musky and tiger trout. However, when you consider all the others species for which there is no apparent advantage of the moon phases, and the fact that anglers may target certain moon phases more, it is hard to draw a strong conclusion for musky and tiger trout.
